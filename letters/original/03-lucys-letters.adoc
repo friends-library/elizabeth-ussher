@@ -1,4 +1,4 @@
-== Extracts From Lucy`'s Letters, Etc.
+== Extracts From Lucy`'s Letters
 
 Lucy, the second sister was taken ill of a consumption
 and died the latter part of the year 1797,
@@ -44,7 +44,10 @@ tending to her further refinement.
 Her sister Judith took notes concerning her after she had taken to her bed,
 of the illness of which she died, from which the following is extracted:
 
-"`She had been for some time deeply exercised,
+[.embedded-content-document.testimony]
+--
+
+She had been for some time deeply exercised,
 but at this season her mind seemed to be sweetly relieved, and covered with divine love,
 which flowed to all around her.
 She called me to her, and said, the way before her was dark,
@@ -67,7 +70,7 @@ who would direct them.
 I cannot remember all she said at that time,
 being much tendered and enlarged by the overflowings of divine love.
 She expressed great resignation to whatsoever was the Lord`'s holy will concerning her;
-adding, '`Though He slay me yet will I trust in him,`' and said,
+adding, "`Though He slay me yet will I trust in him,`" and said,
 she thought she felt resignation in me also,
 in which I was wonderfully supported about that time,
 for though I did not think I could love her better, yet such were my feelings,
@@ -75,34 +78,39 @@ that had the Lord demanded it,
 it seemed as if I could part with all that was near and dear to me in this life,
 in acquiescence to his will.
 
-"`A few days before dear Lucy`'s departure she called to her mother and said,
+A few days before dear Lucy`'s departure she called to her mother and said,
 she remembered in a particular manner,
 what a powerful impression the last testimony of
 Mary Ridgeway`'s that she heard at meeting,
 had on her mind; that it seemed to have passed away, but then revived,
 and she felt easy to repeat so much:
-'` Ye are they that have been with me in my trials and in my temptations,
+"`Ye are they that have been with me in my trials and in my temptations,
 and for you my Father has prepared a crown of glory
-that fadeth not away.`' At another time she said,
-'`Oh! what an awful thing to appear before a God
-of purity!`' Her bodily pains seemed excessive,
+that fadeth not away.`" At another time she said,
+"`Oh! what an awful thing to appear before a God
+of purity!`" Her bodily pains seemed excessive,
 yet she never complained, but with a sweet countenance, often said,
-'`It is not of any consequence, if it does the work of purification it is a favor.`'
+"`It is not of any consequence, if it does the work of purification it is a favor.`"
 
-"`She said she remembered at the only meeting for discipline that she sat,
+She said she remembered at the only meeting for discipline that she sat,
 an Epistle was read, where after much encouragement was expressed to the young,
 there was added a desire for those who should be cut off in their bloom,
 that their conduct and example might be such that would leave a savour behind;
 and at the same time she believed she was of the number that was to be removed,
-and did ardently crave that the latter part might be applicable to herself.`"
+and did ardently crave that the latter part might be applicable to herself.
+
+--
 
 She was admitted into membership with the society
 of Friends about a year and half before her decease.
 
-LETTER I.
+[.centered]
+==== LETTER I.
 
+[.letter-heading]
 To her Sister Elizabeth.
 
+[.signed-section-context-open]
 April 20, 1795.
 
 Since I wrote last to my dear Eliza,
@@ -188,10 +196,13 @@ until you attain unto the measure of the stature of the fulness of Christ,
 and be daily weaned from instruments, till He shall be your all in all,
 is the breathing of my soul for you, etc.
 
-LETTER II.
+[.centered]
+==== LETTER II.
 
+[.letter-heading]
 To her Sister Judith.
 
+[.signed-section-context-open]
 August 28, 1795.
 
 I thank you my dearest Judith, for your best of wishes: indeed it is impious to doubt,
@@ -211,10 +222,13 @@ be among those happy few who shall unto all eternity
 follow the Lamb whithersoever he goeth;
 and shall wash our robes and make them white, in his most precious blood.
 
-LETTER III.
+[.centered]
+==== LETTER III.
 
+[.letter-heading]
 To her Sister Judith
 
+[.signed-section-context-open]
 1795.
 
 You are not as happy as I could wish in your present situation,
@@ -228,12 +242,14 @@ through faith unto salvation.
 Have you not encouragement to submit (as I am sure you do) your temporal,
 as well as your everlasting happiness into the hands of Him who careth for you.
 
-LETTER IV.
+[.centered]
+==== LETTER IV.
 
+[.letter-heading]
 To her Sister Judith.
 
-Sept.
-9, 1795.
+[.signed-section-context-open]
+Sept. 9, 1795.
 
 What a happy spirit that is which dear Eliza was directed to in
 a dream! to look simply to our beloved Lord in everything,
@@ -259,20 +275,22 @@ Have you read Cowper`'s Poems?
 they are wrote in the spirit of Christianity;
 I cannot forbear giving you a sample of them:
 
+[verse]
+____
 "`A soul redeem`'d demands a life of praise,
-
 Hence the complexion of his future days;
-
 Hence a demeanor holy and unspeck`'d,
-
 And the world`'s hatred as its sure effect.`"
+____
 
-LETTER V.
+[.centered]
+==== LETTER V.
 
+[.letter-heading]
 To her Sister Judith.
 
-Sept.
-25, 1795.
+[.signed-section-context-open]
+Sept. 25, 1795.
 
 Our dear +++_______+++ expects soon to sail for Gibraltar.
 In his way through Bristol he spent a little time with Eliza,
@@ -290,10 +308,13 @@ To be heirs with God, and joint heirs with Christ!
 And when called by Him, why not follow Him through evil, as through good report?
 Oh that we may never draw back, nor be of that unhappy number in whom He has no pleasure!
 
-LETTER VI.
+[.centered]
+==== LETTER VI.
 
+[.letter-heading]
 To her Sister Judith.
 
+[.signed-section-context-open]
 1795.
 
 I congratulate my beloved Judith upon her safe arrival at +++_______+++,
@@ -343,12 +364,14 @@ May we all meet round the throne of the Lamb, where no enemy can assault,
 nor snare allure, where this corruptible shall put on incorruption,
 and this mortal immortality, etc.
 
-LETTER VII.
+[.centered]
+==== LETTER VII.
 
+[.letter-heading]
 To her Sister Judith.
 
-Nov.
-14, 1795.
+[.signed-section-context-open]
+Nov. 14, 1795.
 
 I am sure it will give my dear Judith pleasure to hear of the safe arrival of dear +++_______+++:
 thanks be to Him who has preserved him and brought him through
@@ -367,12 +390,14 @@ and preserve you unto His heavenly kingdom: and may you and I, my dearest Judith
 devote our lives to Him whose gifts they are, and finish our course with joy,
 being ready to meet our Lord at any hour that He shall please to call.
 
-LETTER VIII.
+[.centered]
+==== LETTER VIII.
 
+[.letter-heading]
 To her sister Judith.
 
-Nov.
-21, 1795.
+[.signed-section-context-open]
+Nov. 21, 1795.
 
 Though I am sure I can never feel half gratitude enough to my condescending redeemer,
 for his great goodness, in bearing so long with me, yet glory be to his name,
@@ -417,12 +442,14 @@ these words were in the strongest manner sweetly applied to my soul;
 
 Try this method, and may you feel the comfort of it.
 
-LETTER IX.
+[.centered]
+==== LETTER IX.
 
+[.letter-heading]
 To her Sister Judith.
 
-Jan.
-11, 1796.
+[.signed-section-context-open]
+Jan. 11, 1796.
 
 Sincerely do I sympathise with my dearest Judith,
 in her very unpleasant and trying situation; but you have this comfort,
@@ -480,10 +507,13 @@ and be led forth beside the waters of comfort, and be brought to us safe,
 that we may altogether feed beside the Shepherd`'s tent,
 and may know Him to be our teacher and never-failing friend in every time of trouble.
 
-LETTER X.
+[.centered]
+==== LETTER X.
 
+[.letter-heading]
 To her Sister Elizabeth.
 
+[.signed-section-context-open]
 May 18, 1796,
 
 Knowing what anxiety my dearest Eliza is in, until she hears from us,
@@ -525,10 +555,13 @@ in the bonds of gospel love, desire,
 that you and my dear aunt may be kept in that peace that passeth all understanding,
 and which those only can enjoy whose minds are stayed upon the Prince of Peace.
 
-LETTER XI.
+[.centered]
+==== LETTER XI.
 
+[.letter-heading]
 To her Sister Judith.
 
+[.signed-section-context-open]
 8th Month 11th, 1796.
 
 In a measure of that love which many waters cannot quench,
@@ -569,7 +602,7 @@ hard-hearted Egyptians are suffered to grope for a season, in darkness that may 
 
 Dear Eliza has not been able for this last week, to sit up longer than five o`'clock,
 and this day was obliged to go to bed before one,
-so thou may est judge how her poor body is worn down:
+so thou mayest judge how her poor body is worn down:
 she cannot get rest or ease from extreme pain in her chest, side, and stomach,
 but by laudanum.
 These dispensations must be very trying to so weak a frame as my beloved mother`'s:
@@ -594,12 +627,16 @@ and Eliza unite in love to thee my precious Judith,
 with her who feels herself doubly united to thee, both in the flesh and in the Lord,
 and is thy truly affectionate sister,
 
+[.signed-section-signature]
 Lucy Ussher.
 
+[.postscript]
 Salute those of the household of faith that are particularly dear to me, in my name.
 
-LETTER XII.
+[.centered]
+==== LETTER XII.
 
+[.letter-heading]
 To a Friend.
 
 Impute not, O my endeared friend, my long silence to a want of that gratitude and love,
@@ -628,9 +665,10 @@ And shall I not leave myself in His holy hands, to do with me as he pleases?
 O yes, my beloved friend, for surely I wanted emptying;
 under the sense of which it has frequently been the language of my heart in times past,
 O turn thy hand upon me, purely purge away my dross, and take away all my tin.
-
 Dearly farewell.
 
+[.signed-section-closing]
 Thy truly affectionate afflicted,
 
+[.signed-section-signature]
 Lucy Ussher.

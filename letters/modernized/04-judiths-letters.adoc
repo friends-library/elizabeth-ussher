@@ -1,7 +1,31 @@
-== Extracts from Judith`'s Letters, etc.
+== Extracts from Judith`'s Letters
 
 Judith, the third sister, died of a consumption after a short confinement,
-early in the year 1798, aged eighteen years and about three months.
+early in the year 1798, aged eighteen years and about three months.^
+footnote:[The following extracts regarding Elizabeth Ussher and her daughter Judith
+are taken from the Journal of William Savery:
+{footnote-paragraph-split}
+"`From thence we visited the widow Ussher, a valuable woman of excellent understanding,
+who has been received among Friends within a year past;
+since which she has lost two excellent daughters in consumption,
+a third is now near her end, and a fourth evidently going the same way.
+She has been supported in her affliction marvellously,
+and her daughters have made a precious end,
+as the one now going will also soon do.
+She was sensible, and looked on us with a sweet countenance;
+all felt like peace around her bed, and I was comforted in being with the family.`"
+{footnote-paragraph-split}
+"`Visited Elizabeth Ussher, and found her in much Christian resignation to the will of the Lord,
+though her third lovely daughter was to be buried today;
+having lost two others in a consumption, and a son in another way, within twelve months;
+her father at this time lying a corpse, and her fourth and last daughter
+likely very soon to follow her sisters in the same disease.
+Her state of mind, as well as that of her dear remaining daughter, was truly instructive to me.
+Her son, who had not professed with Friends, came a few hours before Judith`'s death,
+to take leave of her; she looked at him with much serenity of countenance,
+bid him farewell, and said with a voice louder than she had for some time,
+'`All is peace, sweet peace,`' and so departed,
+praising God in joyful hope of a blessed change approaching.`"]
 
 This precious child had by nature somewhat more to subdue than her sisters,
 but being daily favoured with the touches of divine truth,
@@ -31,7 +55,10 @@ took its flight to the mansions of eternal rest and peace.
 She was admitted into membership with the Society
 of Friends about eighteen months before her decease.
 
-A covenant with God made by her when about thirteen years old:
+The following is a covenant with God made by her when about thirteen years old:
+
+[.embedded-content-document.letter]
+--
 
 O Almighty and incomprehensible Being,
 I am now about to fulfill what has been long foretold by the prophet Isaiah.
@@ -47,11 +74,16 @@ but, Oh, what have I to renounce, but what would forever make me miserable!
 Let angels and archangels be my witnesses,
 if ever I am so base as to break this my covenant, let my name witness against me, 1793.
 
+[.signed-section-signature]
 Judith Ussher.
 
-LETTER I.
+--
 
-To Her Mother.
+[.centered]
+==== LETTER I.
+
+[.letter-heading]
+To her Mother.
 
 I much wish to be with my dearest friends, to retire oftener,
 and to have more communion with my God;
@@ -61,10 +93,13 @@ that when temptations arise we may not be like the ruffled sea,
 but that we may look with fresh confidence to the rock from which we are hewn,
 and receive fresh strength: may this be all our case.
 
-LETTER II.
+[.centered]
+==== LETTER II.
 
-To Her Mother.
+[.letter-heading]
+To her Mother.
 
+[.signed-section-context-open]
 1795.
 
 I rejoice that my sweet Lucy enjoys such true happiness in our dear Lord:
@@ -111,12 +146,18 @@ if she does not resist his visitations, wash her in his sacred blood:
 I conclude with a line that often occurs to me,
 particularly when in company with those with whom I am surrounded,
 
+[verse]
+____
 "`They build too low, who build beneath the skies,`" etc.
+____
 
-LETTER III.
+[.centered]
+==== LETTER III.
 
+[.letter-heading]
 To her Sister Elizabeth.
 
+[.signed-section-context-open]
 1795.
 
 Will my dearest and most beloved Eliza accept of a few lines from her Judith,
@@ -163,10 +204,13 @@ till our bodies are laid in the peaceful grave,
 and our souls are exalted to the mansions of eternal bliss,
 which were prepared for us from the foundations of the world.
 
-LETTER IV.
+[.centered]
+==== LETTER IV.
 
-To Her Mother.
+[.letter-heading]
+To her Mother.
 
+[.signed-section-context-open]
 1795.
 
 O my dear mother, are we not poor, weak, frail mortals in ourselves! for my part,
@@ -226,10 +270,13 @@ without the aid of an invisible, but supporting arm, I could never escape unhurt
 but I must not repine, and as He who said, they should not be ashamed that wait for Him,
 cannot lie, I will wait in faith.
 
-LETTER V.
+[.centered]
+==== LETTER V.
 
-To Her Mother.
+[.letter-heading]
+To her Mother.
 
+[.signed-section-context-open]
 1795.
 
 I am sorry your health still continues poorly.
@@ -248,12 +295,14 @@ let us with humble faith rely on the promised word for help,
 remembering that he that loves us will love us to the end, and the more he chastens,
 the more strength he gives to endure, etc.
 
-LETTER VI.
+[.centered]
+==== LETTER VI.
 
-To Her Mother.
+[.letter-heading]
+To her Mother.
 
-Oct.
-21, 1795.
+[.signed-section-context-open]
+Oct. 21, 1795.
 
 When I received your last letter my mind was eased of many uneasy fears,
 which arose in it by reason of the long silence which had prevailed;
@@ -271,12 +320,14 @@ she immediately evades it.
 I have no hopes but in Him with whom nothing is impossible.
 Every blessing attend you, even to the utmost.
 
-LETTER VII.
+[.centered]
+==== LETTER VII.
 
+[.letter-heading]
 To her Mother.
 
-Nor.
-5, 1795.
+[.signed-section-context-open]
+Nov. 5, 1795.
 
 I think I cannot leave this till our return from +++_______+++: but protected by my dear Lord,
 I shall be safe wherever his divine hand shall direct.
@@ -294,12 +345,14 @@ We must trust almighty power for the safety of dear
 +++_______+++. He who holds the winds in his fist,
 and the waters in the hollow of his hand is able and I trust willing to protect him.
 
-LETTER VIII.
+[.centered]
+==== LETTER VIII.
 
-To Her Mother.
+[.letter-heading]
+To her Mother.
 
-Jan.
-29, 1796.
+[.signed-section-context-open]
+Jan. 29, 1796.
 
 I look forward with delight to the time when I may
 have the company of my nearest and dearest friends.
@@ -321,12 +374,14 @@ I am obliged to you for the texts you have pointed out to me; they are really de
 and when by faith presented to ourselves, convey true comfort;
 I would add the epistle of James.
 
-LETTER IX.
+[.centered]
+==== LETTER IX.
 
-To Her Mother.
+[.letter-heading]
+To her Mother.
 
-Feb.
-2, 1796.
+[.signed-section-context-open]
+Feb. 2, 1796.
 
 I received my dear mother`'s letter, and though I sensibly feel for your situation,
 it gave me pleasure to find that your heart and affections
@@ -367,10 +422,13 @@ by making all our actions coincide not only with our Saviour`'s express commands
 but wherever we can discern the least indication of his will, and when we have done all,
 He must be "`the Lord our righteousness.`"
 
-LETTER X.
+[.centered]
+==== LETTER X.
 
-To Her Mother.
+[.letter-heading]
+To her Mother.
 
+[.signed-section-context-open]
 February 12, 1796.
 
 I this morning received my dear mother`'s letter, which, like the preceding one`'s,
@@ -414,10 +472,13 @@ and accept of the free salvation offered by the wounds of a dying Saviour,
 that when they deport this life, they may fall asleep in Christ,
 and awake to joys unknown!
 
-LETTER XI.
+[.centered]
+==== LETTER XI.
 
-To Her Mother.
+[.letter-heading]
+To her Mother.
 
+[.signed-section-context-open]
 March 2, 1796.
 
 Next Tuesday I trust I shall be restored to friends
@@ -433,10 +494,13 @@ if aided by divine grace, be effected in a few lines.
 There are many here whose blindness I pity,
 while I despise the baneful pleasures they pursue.
 
-LETTER XII.
+[.centered]
+==== LETTER XII.
 
+[.letter-heading]
 To her Sister Elizabeth.
 
+[.signed-section-context-open]
 July 7, 1796.
 
 Since I received your letter, my dearly beloved Eliza,
@@ -496,15 +560,20 @@ but I must retard its progress with committing you to the
 care of Him who cares for you--from your unworthy sister,
 who loves you more than in an affectionate manner,
 
+[.signed-section-signature]
 Judith Ussher.
 
+[.postscript]
 P+++.+++ S. I have, by writing you these few lines,
 eased my mind of a burden with which I have been long depressed.
 
-LETTER XIII.
+[.centered]
+==== LETTER XIII.
 
+[.letter-heading]
 To a Friend.
 
+[.signed-section-context-open]
 July 12, 1790.
 
 I take up my pen to salute my dearly beloved friend,
@@ -557,10 +626,13 @@ knowing the sweet frame of her mind, I think I could, in some measure,
 patiently resign her unto her dear Lord, with whom, I believe, her precious soul will,
 on its exit from mortality, ever after reside, etc.
 
-LETTER XIV.
+[.centered]
+==== LETTER XIV.
 
-To Her Mother.
+[.letter-heading]
+To her Mother.
 
+[.signed-section-context-open]
 July 15, 1796.
 
 My dearly beloved mother`'s letter conveying the pleasing intelligence of her safety,
@@ -603,10 +675,13 @@ but her precious soul, raised above the cares of the body,
 and calmly resigned to the will of Him who makes all things work together for good,
 to them who love and fear him.
 
-LETTER XV.
+[.centered]
+==== LETTER XV.
 
-To Her Mother.
+[.letter-heading]
+To her Mother.
 
+[.signed-section-context-open]
 July 23, 1796.
 
 My beloved mother`'s letter gave me pleasure so far
@@ -676,10 +751,13 @@ who endeavour simply to follow Him in the path of truth.
 I doubt not but your heart has been already warmed with it,
 in a more lively manner than words can express.
 
-LETTER XVI.
+[.centered]
+==== LETTER XVI.
 
+[.letter-heading]
 To a Friend.
 
+[.signed-section-context-open]
 7th Month, 27th, 1796.
 
 I think I feel as if I had made a sort of promise to my beloved friend,
@@ -768,18 +846,22 @@ Oh! that I may be enabled continually to wait in childlike
 simplicity at wisdom`'s gate with my inward ear open,
 to receive her instruction, and hearken to her council;
 for surely she is a tree of that life to which I feel not entitled to approach.
-My dear Susan desired me to give her dear love to you and dear +++_______+++:
-
+My dear Susan desired me to give her dear love to you and dear +++_______+++.
 In much love, I remain,
 
+[.signed-section-closing]
 My valued friend`'s very affectionate
 
+[.signed-section-signature]
 Judith Ussher.
 
-LETTER XVII.
+[.centered]
+==== LETTER XVII.
 
-To Her Mother.
+[.letter-heading]
+To her Mother.
 
+[.signed-section-context-open]
 8th Month, 12th, 1796.
 
 I received your affectionate salutation, my beloved mother, when last in town,
@@ -856,12 +938,16 @@ is salutary and refreshing unto me.
 My dear love to my beloved Eliza and aunt, in which Susan joins to yourself and Lucy,
 and I remain your unworthy, but, I think truly affectionate daughter,
 
-Judith Ussher,
+[.signed-section-signature]
+Judith Ussher.
 
-LETTER XVIII.
+[.centered]
+==== LETTER XVIII.
 
+[.letter-heading]
 To her Mother.
 
+[.signed-section-context-open]
 9th Month, 9th, 1796.
 
 Was it not my beloved mother`'s request to hear from me once a week,
@@ -932,12 +1018,16 @@ nothing else could carry you through so great afflictions.
 I remain in that love, which at this time flows towards you,
 my valued mother and sisters, more than affectionate,
 
+[.signed-section-signature]
 Judith Ussher.
 
-LETTER XIX.
+[.centered]
+==== LETTER XIX.
 
+[.letter-heading]
 To a Friend.
 
+[.signed-section-context-open]
 10th Month, 4th, 1795.
 
 Your frequent kind enquiries and many messages of love, my dear friend,
@@ -992,12 +1082,16 @@ grateful praise in their hearts safely to cast anchor.
 Written in much love by your very affectionate, and, Oh! that I might add,
 fellow traveller towards a city which has foundations,
 
+[.signed-section-signature]
 Judith Ussher.
 
-LETTER XX.
+[.centered]
+==== LETTER XX.
 
+[.letter-heading]
 To a Friend.
 
+[.signed-section-context-open]
 1st Month, 30th, 1797.
 
 Little did my heart conceive when I last parted from you my dear and valued friend,
@@ -1050,9 +1144,11 @@ if such a poor worthless worm was still retained in remembrance,
 perhaps the moment might arrive, wherein she who cannot plead for herself,
 might be pleaded for at the footstool of mercy, that faith and patience fail not,
 
+[.signed-section-signature]
 Judith Ussher.
 
-* * *
+[.asterism]
+'''
 
 Susanna, the youngest sister died of a consumption, early in the year 1798,
 aged nearly fifteen years.
@@ -1074,6 +1170,9 @@ but I believe the Lord in his great mercy will support
 all those that trust in Him alone.`"
 
 The following lines were found among her papers, written in her own hand:--
+
+[.embedded-content-document.letter]
+--
 
 Many are the trials and the conflicts the spiritual mind has to sustain,
 before it can enter the promised hind, but if it endure to the end,
@@ -1097,4 +1196,7 @@ You will have mercy and not sacrifice: You will have compassion on the children 
 O look down with compassion upon them, for you are merciful, long-suffering,
 patient in mercy!
 
+--
+
+[.the-end]
 FINIS.

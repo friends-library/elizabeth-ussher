@@ -1,4 +1,4 @@
-== Extracts from Elizabeth`'s Letters, etc.
+== Extracts from Elizabeth`'s Letters
 
 Elizabeth, the eldest sister died of a consumption at Bristol Hot-Wells,
 in the early part of the year 1796, at about twenty-four years of age.
@@ -51,10 +51,13 @@ but was impressed with this language which she thought she should them have utte
 but through diffidence withheld it, "`Open the everlasting gates,
 and let the righteous enter in.`"--See Isaiah 26:2.]
 
-LETTER I.
+[.centered]
+==== LETTER I.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1794+++.+++
 
 And now, my dear mother, I want to unburden my soul to you,
@@ -77,10 +80,13 @@ that if I die as I am, I must inevitably perish.
 May He, who alone can make your Eliza what you would wish her to be,
 and what she ought to be! etc.
 
-LETTER II.
+[.centered]
+==== LETTER II.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1794+++.+++
 
 I am sorry to hear you are going to +++_______+++ where,
@@ -98,10 +104,13 @@ O my dear mother! that you and I, and all that belong to us,
 may be found in the narrow path, that leads to endless happiness,
 is the greatest wish and constant prayer, of, etc.
 
-LETTER III.
+[.centered]
+==== LETTER III.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1794.
 
 Many thanks to my dear mother, for the few lines concerning our best interest:
@@ -135,10 +144,13 @@ I am little able to talk of the things of God;
 but I trust that he who can best teach you, will answer your prayers and mine,
 and enable us both to understand his divine truths.
 
-LETTER IV.
+[.centered]
+==== LETTER IV.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1795.
 
 You say you fear you feel too little condemnation for sin: sin in ourselves,
@@ -170,10 +182,13 @@ The knowledge of these truths only, is not enough;
 it is only so far as they are felt and experienced in the mind of a believer,
 that they communicate peace and happiness to the soul.
 
-LETTER V.
+[.centered]
+==== LETTER V.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1795.
 
 The two dear girls`' letters delighted me:
@@ -184,10 +199,13 @@ don`'t you depend entirely upon him?
 Remember you love him because he first loved you: let us but believe,
 and we shall find him precious.
 
-LETTER VI.
+[.centered]
+==== LETTER VI.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1795.
 
 Dear mother, what need have we to pray, that we may be disengaged from this world,
@@ -202,10 +220,13 @@ My aunt is a little better this day than yesterday;
 who knows but our compassionate Lord will again restore her health,
 most valuable to those who know her best,
 
-LETTER VII.
+[.centered]
+==== LETTER VII.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1795.
 
 My dear mother, I have shed tears of joy over your letter;
@@ -248,10 +269,13 @@ it hated our dear Lord first; he says in John,
 because "`I have chosen you out of the world,`" etc. and
 left us an example that we should follow his steps.
 
-LETTER VIII.
+[.centered]
+==== LETTER VIII.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1795.
 
 Nothing but grace will effectually turn the heart; till then all is restraint.
@@ -285,10 +309,13 @@ for surely heaven has more happiness for an immortal soul than earth.--In the 17
 Jeremiah I read this morning the curse that was to befall those that forsook God,
 was, their names were written in the earth; O that ours may be written in heaven!
 
-LETTER IX.
+[.centered]
+==== LETTER IX.
 
+[.letter-heading]
 To her Sister Judith.
 
+[.signed-section-context-open]
 1795.
 
 I was greatly delighted with my dear Judith`'s letter: you have found a precious saviour,
@@ -313,10 +340,13 @@ and given himself for you; may he direct you and keep you,
 giving you strength for every trial; may his love prevent every discouragement,
 and be an earnest to you of future glory, etc.
 
-LETTER X.
+[.centered]
+==== LETTER X.
 
+[.letter-heading]
 To her Mother.
 
+[.signed-section-context-open]
 1795.
 
 I look forward with pleasure to seeing my dear +++_______+++ after so long an absence,
@@ -353,10 +383,13 @@ in his presence is fulness of joy!
 Oh, when will the time come when we shall be in the enjoyment of him;
 when we shall see him face to face, then will our cup be full, running over!
 
-LETTER XI.
+[.centered]
+==== LETTER XI.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1795.
 
 I rejoice that you are enabled to stem the torrent of persecution by and through Jesus,
@@ -368,13 +401,13 @@ we may have that which will cause us to glorify him.
 I find my soul is dead indeed, if my Beloved withdraws;
 or rather when the curtain is drawn over my soul:
 
+[verse]
+____
 "`He is our life, our light, our love,
-
 Our portion, and our all,
-
 The circle where my passions move
-
 And centre of my soul.`"
+____
 
 You are the persons our Lord has himself pronounced blessed;
 he bids you rejoice and be exceeding glad.
@@ -406,12 +439,16 @@ He will reject her,
 and the horrible consequence no pen can paint.--Need I tell my beloved
 parent my heart is united to her`'s forever in love by the strongest bands.
 
+[.postscript]
 P+++.+++ S. When you give my message give it in love: there is great harmony in love.
 
-LETTER XII.
+[.centered]
+==== LETTER XII.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1795.
 
 To those who find religion a real good, retirement is delightful,
@@ -437,10 +474,13 @@ assure them with my love, were I to begin the world again,
 I would seek to walk in wisdom`'s ways, they are ways of pleasantness,
 and all her paths are peace.
 
-LETTER XIII.
+[.centered]
+==== LETTER XIII.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1795.
 
 When we think on what a slender thread life hangs,
@@ -450,10 +490,13 @@ To you who believe he is precious, these are sweet words,
 O for a stronger faith to rest entirely on his unchangeable love,
 an abiding sense of which would sweeten every cross and create a heaven within.
 
-LETTER XIV.
+[.centered]
+==== LETTER XIV.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1795.
 
 I hope you will inform me of your health, and the state of your soul,
@@ -476,10 +519,13 @@ and never be discouraged by the insinuations of the enemy,
 who would work "`with our poor weak hearts: but we have this delightful promise,
 "`Resist the devil and he will flee.`"
 
-LETTER XV.
+[.centered]
+==== LETTER XV.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1795.
 
 When I think of what darkness and unbelief there is over the world,
@@ -498,10 +544,13 @@ with what astonishment would they look back on their past choice!
 I do firmly believe they would go and sell all that they had,
 and purchase that pearl of great price.
 
-LETTER XVI.
+[.centered]
+==== LETTER XVI.
 
+[.letter-heading]
 To Her Mother and Sister Lucy.
 
+[.signed-section-context-open]
 1795.
 
 Thanks to my dear Mother and Lucy for their joint letter:
@@ -548,12 +597,16 @@ Farewell my dear beloved parent, and my sweet Lucy,
 I bear you on my heart before my dear Redeemer; but what is better,
 He bears your name himself before the throne.
 
+[.signed-section-closing]
 Your`'s in the sweet bonds of Jesus.
 
-LETTER XVII.
+[.centered]
+==== LETTER XVII.
 
+[.letter-heading]
 To her Mother.
 
+[.signed-section-context-open]
 1795.
 
 I am obliged to my dear Lucy for her elegant work:
@@ -583,10 +636,13 @@ all his dealings with you are in love infinite, unchangeable: may he give you an
 in the darkest hour of his providence, to see it so,
 that we may like Sampson get honey out of the lion`'s carcase.
 
-LETTER XVIII.
+[.centered]
+==== LETTER XVIII.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 1795.
 
 My dear mother, I am not prejudiced against any sect; indeed I am not:
@@ -609,10 +665,13 @@ I request her to read a few lines I send with it: the worst of these amusements 
 they engage too much time and thought; while our hands are at work, we should endeavour,
 at the same time, to delight our hearts in thinking of the love that bought us.
 
-LETTER XIX.
+[.centered]
+==== LETTER XIX.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 March 31, 1795.
 
 What soul can be truly happy until in the perfect enjoyment of its Saviour?
@@ -644,11 +703,34 @@ may you have the presence of Jesus to support and
 comfort you in all your trials and bitter cups,
 my dear mother, whom I love in the truth.
 
-LETTER XX.
+[.centered]
+==== LETTER XX.
 
+[.letter-heading]
 To Her Mother.
 
-May 30, 1796.
+[.signed-section-context-open]
+May 30, 1796.^
+footnote:[A few months prior to the date of this letter,
+Mary Dudley, a beloved minister in the Society of Friends,
+recorded the following passage in her journal:
+{footnote-paragraph-split}
+"`I continue to feel my mind attracted to several who attend our meetings with honest inquiries,
+'`what shall we do?`' etc.
+Among these are a family, respecting whom I had no knowledge or information;
+but while in meeting the day after I came here,
+my heart was drawn into such a feeling of secret sympathy with two genteel looking women
+who sat solidly opposite the gallery, that I was ready to marvel,
+not knowing by their appearance whether they had any connection with Friends or not.
+At length I became so exercised, that the work in them might be carried forward,
+and the new creation perfected, that vocal supplication was offered,
+and inquiring after meeting respecting them,
+I found they were a widow Ussher and her daughter,
+and that they had constantly attended meetings for several months past.
+I spoke to them on going out of the meeting house, and they cordially to me;
+since then we have seen more of each other;
+they are indeed a wonderful family, and the more I know of them,
+the more my heart is attached to them.`"]
 
 My ever dear mother has already received accounts of my illness;
 the means used have been instrumental to my recovery,
@@ -671,10 +753,13 @@ and everything else that relates to us, I commit to him who alone does all thing
 it is with difficulty I have written;
 may every blessing from our loving Jesus be with you all.
 
-LETTER XXI.
+[.centered]
+==== LETTER XXI.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 June 16, 1796.
 
 My darling mother, my last not being satisfactory as to my health,
@@ -694,9 +779,11 @@ all which flow from the infinite fulness of Jesus filling the soul,
 and increasing it every moment with delight,
 such as we cannot fully know till we are in the enjoyment of it, who would wish to stay?
 
+[verse]
+____
 "`May we have patience here to wait,
-
 Till Jesus us to bliss translate.`"
+____
 
 I own I would wish you to come here if you would not be distressed by it:
 surely it is a selfish wish to see her who lies nearest my heart of all earthly attachments,
