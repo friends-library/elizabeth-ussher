@@ -105,7 +105,7 @@ She was admitted into membership with the society
 of Friends about a year and half before her decease.
 
 [.centered]
-==== LETTER I.
+=== LETTER I.
 
 [.letter-heading]
 To her Sister Elizabeth.
@@ -197,7 +197,7 @@ and be daily weaned from instruments, till He shall be your all in all,
 is the breathing of my soul for you, etc.
 
 [.centered]
-==== LETTER II.
+=== LETTER II.
 
 [.letter-heading]
 To her Sister Judith.
@@ -222,7 +222,7 @@ be among those happy few who shall unto all eternity follow the Lamb wheresoever
 and shall wash our robes and make them white, in his most precious blood.
 
 [.centered]
-==== LETTER III.
+=== LETTER III.
 
 [.letter-heading]
 To her Sister Judith
@@ -242,7 +242,7 @@ Have you not encouragement to submit (as I am sure you do) your temporal,
 as well as your everlasting happiness into the hands of Him who cares for you.
 
 [.centered]
-==== LETTER IV.
+=== LETTER IV.
 
 [.letter-heading]
 To her Sister Judith.
@@ -282,7 +282,7 @@ And the world`'s hatred as its sure effect.`"
 ____
 
 [.centered]
-==== LETTER V.
+=== LETTER V.
 
 [.letter-heading]
 To her Sister Judith.
@@ -307,7 +307,7 @@ And when called by Him, why not follow Him through evil, as through good report?
 Oh that we may never draw back, nor be of that unhappy number in whom He has no pleasure!
 
 [.centered]
-==== LETTER VI.
+=== LETTER VI.
 
 [.letter-heading]
 To her Sister Judith.
@@ -363,7 +363,7 @@ nor snare allure, where this corruptible shall put on incorruption,
 and this mortal immortality, etc.
 
 [.centered]
-==== LETTER VII.
+=== LETTER VII.
 
 [.letter-heading]
 To her Sister Judith.
@@ -389,7 +389,7 @@ devote our lives to Him whose gifts they are, and finish our course with joy,
 being ready to meet our Lord at any hour that He shall please to call.
 
 [.centered]
-==== LETTER VIII.
+=== LETTER VIII.
 
 [.letter-heading]
 To her sister Judith.
@@ -441,7 +441,7 @@ these words were in the strongest manner sweetly applied to my soul;
 Try this method, and may you feel the comfort of it.
 
 [.centered]
-==== LETTER IX.
+=== LETTER IX.
 
 [.letter-heading]
 To her Sister Judith.
@@ -506,7 +506,7 @@ that we may altogether feed beside the Shepherd`'s tent,
 and may know Him to be our teacher and never-failing friend in every time of trouble.
 
 [.centered]
-==== LETTER X.
+=== LETTER X.
 
 [.letter-heading]
 To her Sister Elizabeth.
@@ -554,7 +554,7 @@ that you and my dear aunt may be kept in that peace that passes all understandin
 and which those only can enjoy whose minds are stayed upon the Prince of Peace.
 
 [.centered]
-==== LETTER XI.
+=== LETTER XI.
 
 [.letter-heading]
 To her Sister Judith.
@@ -636,7 +636,7 @@ Salute those of the household of faith that are particularly dear to me, in my n
 ====
 
 [.centered]
-==== LETTER XII.
+=== LETTER XII.
 
 [.letter-heading]
 To a Friend.
