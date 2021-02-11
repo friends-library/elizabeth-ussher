@@ -80,7 +80,7 @@ Judith Ussher.
 --
 
 [.centered]
-==== LETTER I.
+=== LETTER I.
 
 [.letter-heading]
 To her Mother.
@@ -94,7 +94,7 @@ but that we may look with fresh confidence to the rock from whence we are hewn,
 and receive fresh strength: may this be all our case.
 
 [.centered]
-==== LETTER II.
+=== LETTER II.
 
 [.letter-heading]
 To her Mother.
@@ -152,7 +152,7 @@ ____
 ____
 
 [.centered]
-==== LETTER III.
+=== LETTER III.
 
 [.letter-heading]
 To her Sister Elizabeth.
@@ -205,7 +205,7 @@ and our souls are exalted to the mansions of eternal bliss,
 which were prepared for us from the foundations of the world.
 
 [.centered]
-==== LETTER IV.
+=== LETTER IV.
 
 [.letter-heading]
 To her Mother.
@@ -271,7 +271,7 @@ but I must not repine, and as He who said, they should not be ashamed that wait 
 cannot lie, I will wait in faith.
 
 [.centered]
-==== LETTER V.
+=== LETTER V.
 
 [.letter-heading]
 To her Mother.
@@ -296,7 +296,7 @@ remembering that he that loveth us will love us to the end, and the more he chas
 the more strength he gives to endure, etc.
 
 [.centered]
-==== LETTER VI.
+=== LETTER VI.
 
 [.letter-heading]
 To her Mother.
@@ -321,7 +321,7 @@ I have no hopes but in Him with whom nothing is impossible.
 Every blessing attend you, even to the utmost.
 
 [.centered]
-==== LETTER VII.
+=== LETTER VII.
 
 [.letter-heading]
 To her Mother.
@@ -346,7 +346,7 @@ We must trust almighty power for the safety of dear
 and the waters in the hollow of his hand is able and I trust willing to protect him.
 
 [.centered]
-==== LETTER VIII.
+=== LETTER VIII.
 
 [.letter-heading]
 To her Mother.
@@ -375,7 +375,7 @@ and when by faith presented to ourselves, convey true comfort;
 I would add the epistle of James.
 
 [.centered]
-==== LETTER IX.
+=== LETTER IX.
 
 [.letter-heading]
 To her Mother.
@@ -424,7 +424,7 @@ but wherever we can discern the least indication of his will, and when we have d
 He must be "`the Lord our righteousness.`"
 
 [.centered]
-==== LETTER X.
+=== LETTER X.
 
 [.letter-heading]
 To her Mother.
@@ -474,7 +474,7 @@ that when they deport this life, they may fall asleep in Christ,
 and awake to joys unknown!
 
 [.centered]
-==== LETTER XI.
+=== LETTER XI.
 
 [.letter-heading]
 To her Mother.
@@ -496,7 +496,7 @@ There are many here whose blindness I pity,
 while I despise the baneful pleasures they pursue.
 
 [.centered]
-==== LETTER XII.
+=== LETTER XII.
 
 [.letter-heading]
 To her Sister Elizabeth.
@@ -574,7 +574,7 @@ eased my mind of a burden with which I have been long depressed.
 ====
 
 [.centered]
-==== LETTER XIII.
+=== LETTER XIII.
 
 [.letter-heading]
 To a Friend.
@@ -634,7 +634,7 @@ patiently resign her unto her dear Lord, with whom, I believe, her precious soul
 on its exit from mortality, ever after reside, etc.
 
 [.centered]
-==== LETTER XIV.
+=== LETTER XIV.
 
 [.letter-heading]
 To her Mother.
@@ -683,7 +683,7 @@ and calmly resigned to the will of Him who makes all things work together for go
 to them who love and fear him.
 
 [.centered]
-==== LETTER XV.
+=== LETTER XV.
 
 [.letter-heading]
 To her Mother.
@@ -759,7 +759,7 @@ I doubt not but thy heart has been already warmed with it,
 in a more lively manner than words can express.
 
 [.centered]
-==== LETTER XVI.
+=== LETTER XVI.
 
 [.letter-heading]
 To a Friend.
@@ -863,7 +863,7 @@ My valued friend`'s very affectionate
 Judith Ussher.
 
 [.centered]
-==== LETTER XVII.
+=== LETTER XVII.
 
 [.letter-heading]
 To her Mother.
@@ -949,7 +949,7 @@ and I remain thy unworthy, but, I think truly affectionate daughter,
 Judith Ussher.
 
 [.centered]
-==== LETTER XVIII.
+=== LETTER XVIII.
 
 [.letter-heading]
 To her Mother.
@@ -1029,7 +1029,7 @@ my valued mother and sisters, more than affectionate,
 Judith Ussher.
 
 [.centered]
-==== LETTER XIX.
+=== LETTER XIX.
 
 [.letter-heading]
 To a Friend.
@@ -1093,7 +1093,7 @@ fellow traveller towards a city which hath foundations,
 Judith Ussher.
 
 [.centered]
-==== LETTER XX.
+=== LETTER XX.
 
 [.letter-heading]
 To a Friend.
